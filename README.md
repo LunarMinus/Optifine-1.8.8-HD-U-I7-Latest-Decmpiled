@@ -6,3 +6,5 @@ Thanks to this video for showing me how to do it: https://www.youtube.com/watch?
 And thanks to https://github.com/immibis/bearded-octo-nemesis for decompiling the source
 
 (This works with shaders, and JavaSE 1.6 and 1.8)
+
+You also will need to get vecmath https://jar-download.com/artifacts/javax.vecmath/vecmath/1.5.2/source-code
